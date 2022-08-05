@@ -44,3 +44,10 @@
 			#main > .panel:last-child {
 				margin-bottom: 0;
 			}
+
+/* textbox */
+
+#textbox {
+	opacity: .2 !important;
+}
+
